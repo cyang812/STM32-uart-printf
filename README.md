@@ -11,10 +11,14 @@
 - 3、为了上传方便，删除了工程项目模板文件中对 keil 和 sw4stm32 开发工具的支持，仅保留了 IAR 开发平台项目工程。
 
 ## 演示
+<<<<<<< HEAD
 
 使用 printf 函数将 MCU 的设备 ID ，flash 容量大小，封装方式打印出来，代码和结果如下：
 
 ![uart-printf](http://github.com/cyang812/STM32-uart-printf/raw/master/DEMO.png)
+=======
+![uart-printf](https://github.com/cyang812/STM32-uart-printf/raw/master/DEMO.png)
+>>>>>>> b68e0959f24bf65e961bcb9df52758ca3141b4f6
 
 ## 移植步骤
 
