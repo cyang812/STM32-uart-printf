@@ -29,7 +29,7 @@
 
 - 3、若单片机的型号与 github 库中不一致，则可参考库中如下几个文件中的函数进行移植：
     ```c
-    main.c  -> USART2_UART_Init();
+    main.c  -> USART2_UART_Init(); + PUTCHAR_PROTOTYPE{}
     main.h  -> /* Definition for USARTx clock resources */
     stm32l4xx_hal_msp.c -> HAL_UART_MspInit();
     ```
