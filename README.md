@@ -15,10 +15,10 @@
 
 使用 printf 函数将 MCU 的设备 ID ，flash 容量大小，封装方式打印出来，代码和结果如下：
 
-![uart-printf](http://github.com/cyang812/STM32-uart-printf/raw/master/DEMO.png)
-=======
+![uart-printf](http://github.com/cyang812/STM32-uart-printf/raw/master/code.png)
+
 ![uart-printf](https://github.com/cyang812/STM32-uart-printf/raw/master/DEMO.png)
->>>>>>> b68e0959f24bf65e961bcb9df52758ca3141b4f6
+
 
 ## 移植步骤
 
