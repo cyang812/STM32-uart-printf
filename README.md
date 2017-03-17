@@ -11,7 +11,7 @@
 - 3、为了上传方便，删除了工程项目模板文件中对 keil 和 sw4stm32 开发工具的支持，仅保留了 IAR 开发平台项目工程。
 
 ## 演示
-![uart-printf](http://github.com/cyang812/STM32-uart-printf/raw/master/DEMO.png)
+![uart-printf](https://github.com/cyang812/STM32-uart-printf/raw/master/DEMO.png)
 
 ## 移植步骤
 
